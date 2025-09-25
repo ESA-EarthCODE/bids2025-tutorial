@@ -4,7 +4,7 @@
 
 If you are using the EDC environment and have accessed this example through the Open Science Catalog, this example should have the correct kernel selected, and packages installed. You can directly use this example as is, with Dask Gateway. You can access this example on EDC during the week of BiDs25 and the week after if you have registered for this workshop!
 
-To request an account (only available during the workshop!) click on the following and use your github account to sign in: https://workspace.edc-lps25.hub-otc-sc.eox.at/
+To request an account (only available during the workshop!) click on the following and use your github account to sign in: https://workspace.earthcode-bids.hub-otc-sc.eox.at/
 
 
 ### Running on your own computer

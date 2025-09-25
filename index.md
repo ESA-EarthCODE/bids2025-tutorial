@@ -21,10 +21,3 @@ EarthCODE is a strategic initiative by the <b> European Space Agency (ESA) </b> 
 
 This hands-on workshop is designed to introduce participants to EarthCODE's and the EDC Pangeo Platform's capabilities.
 
-
----
-
-## Access a rendered version of this workshop at:
-
-![QRCode](./static/image.png)
-
