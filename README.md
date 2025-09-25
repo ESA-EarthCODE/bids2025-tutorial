@@ -3,6 +3,8 @@
 FAIR and Open Science in Action: An Introduction to EarthCODE
 Sep 30, 01:30 PM - 05:00 PM - Room 110
 
+Rendered Tutorial available at: [https://esa-earthcode.github.io/bids2025-tutorial/](https://esa-earthcode.github.io/bids2025-tutorial/)
+
 ![EathCODE](https://esa-earthcode.github.io/documentation/img/EarthCODE_kv_transparent.png)
 
 *Organisers and expected contributors: Deyan Samardzhiev (Lampata), Anne Fouilloux (Simula Research Laboratory), Tina Odaka (IFREMER), Anca Anghelea (ESA), Ewelina Agnieszka Dobrowolska (Serco), Chandra Taposeea-Fisher (Telespazio UK), Garin Smith (Telespazio UK)*
